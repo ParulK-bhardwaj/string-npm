@@ -1,0 +1,27 @@
+{
+  "name": "string-in-js",
+  "version": "1.0.1",
+  "description": "\"functions to mutate strings in JavaScript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParulK-bhardwaj/string-npm.git "
+  },
+  "keywords": [
+    "string methods in Javascript",
+    "capitalize in javascript",
+    "title case in js",
+    "camelize in js",
+    "dasherizeS in js",
+    "humanize in js"
+  ],
+  "author": "Parul Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParulK-bhardwaj/string-npm/issues"
+  },
+  "homepage": "https://github.com/ParulK-bhardwaj/string-npm#readme"
+}
